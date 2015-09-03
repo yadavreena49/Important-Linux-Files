@@ -19,4 +19,8 @@ Important-Linux-Files
     
 5.bashrc :
     Define interactive bash shell , this file contains interactive bash shell with git configuration ,
+    
+6.grub.conf:
+     grub bootloader configuration file.
+     Location=/etc/grub.conf
 
